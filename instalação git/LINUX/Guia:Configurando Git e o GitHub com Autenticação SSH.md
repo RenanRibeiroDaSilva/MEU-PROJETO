@@ -2,5 +2,5 @@
 
 ## 1. Instalar o Git
 * Ubunto/Linux: Execulte o comando:
-	sudo apt update
+	sudo apt update  
 	sudo apt isntall git
